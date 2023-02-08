@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PokemonBattleV2.Resources.Pokemon">
+    <Position X="21.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAEAACAAABAAAAAAAA=</HashCode>
+      <FileName>Pokemon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonBattleV2.PokemonLists.Beedrill" Collapsed="true">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PokemonLists\Beedrill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonBattleV2.PokemonLists.Bulbasaur" Collapsed="true">
+    <Position X="19.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PokemonLists\Bulbasaur.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonBattleV2.PokemonLists.Caterpie" Collapsed="true">
+    <Position X="26.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PokemonLists\Caterpie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonBattleV2.PokemonLists.Charmeleon" Collapsed="true">
+    <Position X="24" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PokemonLists\Charmeleon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonBattleV2.PokemonLists.Fearow" Collapsed="true">
+    <Position X="37.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PokemonLists\Fearow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonBattleV2.PokemonLists.Grimer" Collapsed="true">
+    <Position X="8.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PokemonLists\Grimer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonBattleV2.PokemonLists.Jynx" Collapsed="true">
+    <Position X="12.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PokemonLists\Jynx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonBattleV2.PokemonLists.Kakuna" Collapsed="true">
+    <Position X="21.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PokemonLists\Kakuna.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonBattleV2.PokemonLists.Lapras" Collapsed="true">
+    <Position X="35.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PokemonLists\Lapras.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonBattleV2.PokemonLists.Squirtle" Collapsed="true">
+    <Position X="39.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PokemonLists\Magmar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonBattleV2.PokemonLists.Mewtwo" Collapsed="true">
+    <Position X="3.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PokemonLists\Mewtwo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonBattleV2.PokemonLists.MrMime" Collapsed="true">
+    <Position X="15" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PokemonLists\MrMime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonBattleV2.PokemonLists.Pidgey" Collapsed="true">
+    <Position X="28.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PokemonLists\Pidgey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonBattleV2.PokemonLists.Magmar" Collapsed="true">
+    <Position X="33" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PokemonLists\Pikachu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonBattleV2.PokemonLists.Poliwhirl" Collapsed="true">
+    <Position X="30.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PokemonLists\Poliwhirl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonBattleV2.PokemonLists.Rattata" Collapsed="true">
+    <Position X="10.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PokemonLists\Rattata.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonBattleV2.PokemonLists.Weedle" Collapsed="true">
+    <Position X="17.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PokemonLists\Weedle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
