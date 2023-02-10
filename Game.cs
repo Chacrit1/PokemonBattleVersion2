@@ -220,6 +220,10 @@ namespace PokemonBattleV2
                     this.pokemontakedamage.Hide();
                     lostSound.Play();
                     MessageBox.Show("You Lose!");
+                    this.Picture5.Enabled = false;
+                    this.Picture2.Enabled = false;
+                    this.Picture3.Enabled = false;
+                    this.Picture4.Enabled = false;
                 }
                 return;
             }

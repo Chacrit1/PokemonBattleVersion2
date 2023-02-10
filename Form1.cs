@@ -20,7 +20,7 @@ namespace PokemonBattleV2
             //PokemonList.Add(new Pikachu());
             //PokemonList.Add(new Lapras());
             //PokemonList.Add(new Caterpie());
-            this.mediaPlayer.URL = "bgm.wav";
+            this.mediaPlayer.URL = "bgmm.wav";
             this.mediaPlayer.settings.playCount= 9999;
             this.mediaPlayer.Visible = false;
             this.mediaPlayer.Ctlcontrols.play();
